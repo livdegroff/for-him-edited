@@ -1,4 +1,4 @@
-# for-him-edited
+# for-himmm
 <!DOCTYPE html>
 
 <html>
@@ -23,7 +23,7 @@
 
     <p>
 
-      hey handsome 😭💖
+      hey handsome, here's a website with a bunch of stuff to do when you're bored! Hope you like it, I made it myself!
 
     </p>
 
@@ -59,7 +59,7 @@
 
     <label><input type="checkbox"> Go Outside 🌱</label><br>
 
-    <label><input type="checkbox"> Stretch 🧘</label>
+    <label><input type="checkbox"> Pray 🧘</label>
 
   </div>
 
@@ -175,7 +175,7 @@
 
           i hope you’re having a good day.<br>
 
-          drink water and remember i love you 😭
+          drink water and remember im always here for you 
 
         </p>
 
